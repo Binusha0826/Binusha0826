@@ -185,6 +185,32 @@ A data-driven application that compares seven-day weather forecasts across ten p
 
 ---
 
+### 5. 🌴 Ceylon Odyssey — Cinematic Sri Lankan Travel Website
+
+A modern, immersive travel website designed to showcase the beauty, culture, heritage, and iconic destinations of Sri Lanka through cinematic visuals and interactive web experiences.
+
+**Key Features**
+- 🎬 Cinematic scroll-based frame animations
+- 🏝️ Interactive Sri Lankan destination exploration
+- 🌿 Travel experiences and adventure discovery
+- 🏛️ Sri Lankan culture and heritage showcase
+- 🧭 Interactive journey planning experience
+- ✨ Modern glassmorphism-inspired UI
+- 📱 Responsive website design
+
+**Tech Stack:** HTML, CSS, JavaScript, HTML Canvas API, Node.js, Git, GitHub, Vercel
+
+<p>
+  <a href="https://ceylon-odyssey-site.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Ceylon Odyssey Live Demo" />
+  </a>
+  <a href="https://github.com/Binusha0826/Ceylon-Odyssey">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Ceylon Odyssey Source Code" />
+  </a>
+</p>
+
+---
+
 ## 🎓 Education
 
 ### National Institute of Business Management (NIBM), Sri Lanka
